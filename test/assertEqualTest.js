@@ -6,3 +6,4 @@ assertEqual("Lighthouse", "Lighthouse");
 assertEqual("Lighthouse", "Labs");
 assertEqual(52, 52);
 assertEqual(51, 60);
+
